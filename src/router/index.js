@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import LoginView from '../views/LoginView.vue'
 import RegisterView from '../views/RegisterView.vue'
 import ChangePassword from '../views/ChangePassword.vue'
-
+//配置路径和组件
 const routes = [
   {
     path: '/',
